@@ -73,7 +73,7 @@ h1, h2 {
 }
 
 #main {
-  grid-template-columns: min(90vw, 1170px);
+  grid-template-columns: min(90vw, 1120px);
   justify-content: center;
   padding-block: 5rem;
   display: grid;
@@ -86,7 +86,7 @@ h1, h2 {
 
 #footer {
   background-color: #f5f6f8;
-  grid-template-columns: min(90vw, 1170px);
+  grid-template-columns: min(90vw, 1120px);
   justify-content: center;
   padding-block: 3rem;
   display: grid;
@@ -110,6 +110,10 @@ h1, h2 {
   #footer .inner-footer {
     grid-auto-flow: column;
     align-items: center;
+  }
+
+  #footer .site-logo {
+    justify-content: initial;
   }
 }
 
@@ -249,6 +253,12 @@ h1, h2 {
 
 .nav-social .nav-item:hover path {
   fill: #26baa4;
+}
+
+@media (min-width: 640px) {
+  .nav-social {
+    justify-content: flex-end;
+  }
 }
 
 .list-logos ul {
