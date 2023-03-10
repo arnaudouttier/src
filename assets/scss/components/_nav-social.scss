@@ -1,0 +1,19 @@
+.nav-social {
+  display: flex;
+  column-gap: 2.5rem;
+  align-items: center;
+  justify-content: center;
+
+  .nav-item {
+    path {
+      fill: $grayish_100;
+      transition: fill 0.3s ease;
+    }
+
+    &:hover {
+      path {
+        fill: $cyan;
+      }
+    }
+  }
+}

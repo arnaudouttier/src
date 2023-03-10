@@ -1,0 +1,9 @@
+#main {
+  @include page-container;
+  padding-block: 5rem;
+}
+
+.inner-main {
+  display: grid;
+  gap: 5rem;
+}

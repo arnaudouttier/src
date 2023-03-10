@@ -1,0 +1,28 @@
+#footer {
+  @include page-container;
+  background-color: $gray;
+  padding-block: 3rem;
+
+  .inner-footer {
+    display: grid;
+    gap: 3rem;
+  }
+
+  .site-logo {
+    display: flex;
+    justify-content: center;
+
+    img {
+      max-width: 60px;
+    }
+  }
+}
+
+@media (min-width: 640px) {
+  #footer {
+    .inner-footer {
+      grid-auto-flow: column;
+      align-items: center;
+    }
+  }
+}

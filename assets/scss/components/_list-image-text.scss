@@ -1,0 +1,33 @@
+.list-image-text {
+  ul {
+    display: grid;
+    grid-auto-flow: row;
+    justify-content: center;
+    gap: 2.5rem;
+  }
+
+  li {
+    display: grid;
+    justify-content: center;
+    gap: 1rem;
+    text-align: center;
+  }
+
+  img {
+    justify-self: center;
+    margin-bottom: 1.5rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+}
+
+@media (min-width: 640px) {
+  .list-image-text {
+    ul {
+      grid-auto-flow: column;
+    }
+  }
+}
