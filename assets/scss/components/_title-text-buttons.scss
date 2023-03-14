@@ -1,15 +1,15 @@
 .title-text-buttons {
   display: flex;
   flex-flow: column;
-  row-gap: 2rem;
+  row-gap: 1.5rem;
   text-align: center;
 
   h1 {
-    /* 1.9rem(30.4px) @ 23.4375rem(375px) increasing to 2.4rem(38.4px) @ 70rem(1120px) */
+    /* 1.9rem(30.4px) @ 23.4375rem(375px) increasing to 2.5rem(40px) @ 70rem(1120px) */
     font-size: clamp(
       1.9rem,
-      calc(1.9rem + ((1vw - 0.234375rem) * 1.0738)),
-      2.4rem
+      calc(1.9rem + ((1vw - 0.234375rem) * 1.2886)),
+      2.5rem
     );
   }
 

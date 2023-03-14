@@ -238,12 +238,12 @@ h1, h2 {
 .title-text-buttons {
   text-align: center;
   flex-flow: column;
-  row-gap: 2rem;
+  row-gap: 1.5rem;
   display: flex;
 }
 
 .title-text-buttons h1 {
-  font-size: clamp(1.9rem, 1.0738vw + 1.64833rem, 2.4rem);
+  font-size: clamp(1.9rem, 1.2886vw + 1.59798rem, 2.5rem);
 }
 
 .title-text-buttons h2 {
