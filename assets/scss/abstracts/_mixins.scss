@@ -6,6 +6,6 @@
 
 @mixin page-container {
   display: grid;
-  grid-template-columns: min(90vw, 1120px);
+  grid-template-columns: min(80vw, 1120px);
   justify-content: center;
 }

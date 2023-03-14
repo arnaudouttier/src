@@ -1,20 +1,23 @@
-4410
+4417
 81/home/darnaud/Documents/sites/clipboard-landing-page-master/src/package-lock.json1678453528186622411 0
-90/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/index.3d214d75.js.map1678461301901301799 0
+99/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/bg-header-desktop.75ca14b0.png1678807409402982234 0
+90/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/index.3d214d75.js.map1678807409438982500 0
 96/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/icon-instagram.1241b20b.svg1678458537383551275 0
-94/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/icon-preview.08242ab6.svg1678461301873301578 0
+94/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/icon-preview.08242ab6.svg1678807409398982205 0
 95/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/components.3d214d75.js.map1678458940238754593 0
 114/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/clipboard-landing-page-master.3464ddca.js.map1678442156639423519 0
-102/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/logo-vector-graphics.b08a7a92.png1678461301897301767 0
-93/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/logo-google.dd81fd3b.png1678461301893301735 0
-84/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/components.html1678461301881301641 0
+102/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/logo-vector-graphics.b08a7a92.png1678807409398982205 0
+93/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/logo-google.dd81fd3b.png1678807409398982205 0
+84/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/components.html1678808229812533362 0
 75/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/assets1678453849981890730 1
-89/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/logo-hp.cb0c5daf.png1678461301893301735 0
-91/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/index.55517108.css.map1678461462670570682 0
-86/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/logo.92136df5.svg1678461301877301609 0
+89/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/logo-hp.cb0c5daf.png1678807409434982470 0
+95/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/image-devices.282943f5.png1678807409402982234 0
+91/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/index.55517108.css.map1678811581642165516 0
+86/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/logo.92136df5.svg1678807409394982175 0
 92/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/components.55517108.css1678458940222754466 0
 94/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/icon-twitter.d060be31.svg1678458537415551530 0
-68/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist1678461462670570682 1
+98/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/bg-header-mobile.42d09928.png1678807409434982470 0
+68/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist1678811581642165516 1
 93/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/icons/icon-twitter.svg1615325664000000000 0
 95/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/icons/icon-blacklist.svg1615325664000000000 0
 95/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/icons/icon-instagram.svg1615325664000000000 0
@@ -23,17 +26,17 @@
 86/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/images/logo.svg1615325664000000000 0
 90/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/images/logo-ibm.png1615325664000000000 0
 77/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/images1678445754519914928 1
-86/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/style.scss1678460533307243625 0
+86/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/style.scss1678805709945494533 0
+94/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/commons/_main.scss1678811775091707297 0
 80/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/base1678449070023525817 1
 103/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/components/_list-logos.scss1678457069963879726 0
-106/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/components/_intro-section.scss1678456871338310555 0
-108/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/components/_list-image-text.scss1678456993419274622 0
+108/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/components/_list-image-text.scss1678809353299577647 0
 97/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/glob-parent/index.js1678442238307987657 0
 88/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/glob-parent1678442238311987684 1
 110/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/postcss-value-parser/package.json1678442086234936998 0
 112/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/postcss-value-parser/lib/index.d.ts1678442086250937108 0
 101/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/postcss-value-parser/lib1678442086238937025 1
-96/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/commons/_footer.scss1678461486850761551 0
+96/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/commons/_footer.scss1678465831524022472 0
 137/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lightningcss-linux-x64-musl/lightningcss.linux-x64-musl.node1678442091250971667 0
 112/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lightningcss-linux-x64-musl/LICENSE1678442086174936583 0
 114/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lightningcss-linux-x64-musl/README.md1678442086190936694 0
@@ -49,7 +52,7 @@
 101/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/v8-compile-cache/LICENSE1678442086162936500 0
 93/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/v8-compile-cache1678442086214936859 1
 117/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lmdb/dependencies/v8/v8-fast-api-calls.h1678442086690940149 0
-96/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/icon-blacklist.10cec65b.svg1678461301877301609 0
+96/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/icon-blacklist.10cec65b.svg1678807409414982323 0
 97/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lmdb/dependencies/v81678442086690940149 1
 126/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/Doxyfile1678442086514938933 0
 124/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/midl.h1678442086686940122 0
@@ -78,6 +81,7 @@
 106/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lmdb/dependencies/lz4/lib/dll1678442086898941587 1
 111/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lmdb/dependencies/lz4/lib/xxhash.c1678442086662939956 0
 113/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lmdb/dependencies/lz4/lib/lz4frame.c1678442086526939016 0
+103/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/components/_title-text.scss1678464432720801771 0
 110/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lmdb/dependencies/lz4/lib/lz4hc.c1678442086530939044 0
 120/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lmdb/dependencies/lz4/lib/lz4frame_static.h1678442086682940094 0
 108/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lmdb/dependencies/lz4/lib/lz4.h1678442086682940094 0
@@ -93,7 +97,7 @@
 136/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_drop.11678442086518938961 0
 140/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/sample-bdb.txt1678442086926941781 0
 136/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_copy.c1678442086530939044 0
-91/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/base/_base.scss1678455968119265983 0
+91/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/base/_base.scss1678464156950485621 0
 134/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest6.c1678442086662939956 0
 136/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_load.c1678442086530939044 0
 140/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/sample-mdb.txt1678442086926941781 0
@@ -355,7 +359,7 @@
 116/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/csso/lib/restructure/6-restructBlock.js1678442086238937025 0
 117/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/csso/lib/restructure/3-disjoinRuleset.js1678442086210936832 0
 106/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/csso/lib/restructure/utils.js1678442086370937938 0
-76/home/darnaud/Documents/sites/clipboard-landing-page-master/src/package.json1678459635300228777 0
+76/home/darnaud/Documents/sites/clipboard-landing-page-master/src/package.json1678467748487444223 0
 105/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/csso/lib/restructure/prepare1678442086366937910 1
 115/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/csso/lib/restructure/7-mergeRuleset.js1678442086246937081 0
 97/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/csso/lib/restructure1678442086370937938 1
@@ -494,6 +498,7 @@
 108/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/regions/LT.js1678442086494938795 0
 108/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/regions/ZA.js1678442086550939182 0
 108/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/regions/MP.js1678442086498938822 0
+111/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/components/_title-text-buttons.scss1678809975968600520 0
 106/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/css-select/lib/types.d.ts.map1678442086322937606 0
 108/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/regions/GU.js1678442086474938657 0
 102/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@swc/helpers/lib/index.js1678442086994942251 0
@@ -786,6 +791,7 @@
 119/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/features/transforms3d.js1678442086538939099 0
 117/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/features/nav-timing.js1678442086498938822 0
 126/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/features/css-backdrop-filter.js1678442086418938269 0
+96/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/commons/_header.scss1678807876550233853 0
 118/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/features/svg-filters.js1678442086526939016 0
 128/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/features/dom-manip-convenience.js1678442086462938574 0
 119/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/features/style-scoped.js1678442086526939016 0
@@ -838,6 +844,7 @@
 120/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/features/text-overflow.js1678442086534939071 0
 121/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/features/object-entries.js1678442086502938850 0
 123/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/features/css-font-stretch.js1678442086438938408 0
+96/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/image-computer.59c8bf72.png1678807409438982500 0
 108/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/regions/EE.js1678442086462938574 0
 128/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/features/font-family-system-ui.js1678442086466938601 0
 120/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/features/link-icon-svg.js1678442086490938767 0
@@ -993,7 +1000,7 @@
 112/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/source-map/dist/source-map.debug.js1678442086334937689 0
 110/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/source-map/dist/source-map.min.js1678442086342937744 0
 92/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/source-map/dist1678442086342937744 1
-86/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/index.3d214d75.js1678461301897301767 0
+86/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/index.3d214d75.js1678807409434982470 0
 114/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/source-map/lib/source-map-consumer.js1678442086274937274 0
 108/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/source-map/lib/binary-search.js1678442086246937081 0
 115/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/source-map/lib/source-map-generator.js1678442086278937302 0
@@ -1198,12 +1205,12 @@
 115/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/css-tree/lib/syntax/node/StyleSheet.js1678442086434938380 0
 117/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/css-tree/lib/syntax/node/UnicodeRange.js1678442086442938435 0
 117/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/css-tree/lib/syntax/node/TypeSelector.js1678442086442938435 0
-74/home/darnaud/Documents/sites/clipboard-landing-page-master/src/index.html1678461301257296716 0
+74/home/darnaud/Documents/sites/clipboard-landing-page-master/src/index.html1678810087673446063 0
 115/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/css-tree/lib/syntax/node/Percentage.js1678442086426938325 0
 110/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/css-tree/lib/syntax/node/Block.js1678442086286937357 0
 103/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/color-convert/CHANGELOG.md1678442086166936528 0
 115/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/css-tree/lib/syntax/node/WhiteSpace.js1678442086442938435 0
-86/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/components1678456425306804836 1
+86/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/components1678463584357232273 1
 115/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/css-tree/lib/syntax/node/Identifier.js1678442086390938076 0
 113/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/css-tree/lib/syntax/node/Brackets.js1678442086290937385 0
 113/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/css-tree/lib/syntax/node/Function.js1678442086382938021 0
@@ -1280,7 +1287,7 @@
 98/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/htmlnano/CHANGELOG.md1678442086874941421 0
 99/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/htmlnano/.eslintignore1678442086362937882 0
 97/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/htmlnano/LICENSE.txt1678442086874941421 0
-90/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/logo-ibm.f91d9e3e.png1678461301893301735 0
+90/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/logo-ibm.f91d9e3e.png1678807409434982470 0
 94/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/htmlnano/index.js1678442086370937938 0
 103/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/htmlnano/docs/netlify.toml1678442086874941421 0
 134/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@swc/helpers/src/_class_static_private_field_spec_get.mjs1678442087002942306 0
@@ -2067,7 +2074,7 @@
 115/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/features/temporal.js1678442086530939044 0
 132/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/watcher/prebuilds/linux-x64/node.napi.musl.node1678442086902941615 0
 98/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/node-gyp-build/bin.js1678442086182936638 0
-106/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/components/_nav-secondary.scss1678460954674562700 0
+106/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/components/_nav-secondary.scss1678807450319282445 0
 103/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/node-gyp-build/optional.js1678442086218936887 0
 108/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/regions/SD.js1678442086522938988 0
 103/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/node-releases/package.json1678442086222936915 0
@@ -2503,7 +2510,7 @@
 105/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/nth-check/lib/esm/parse.d.ts1678442086310937523 0
 100/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/domutils/lib/helpers.js1678442086186936666 0
 100/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lines-and-columns/build1678442086202936777 1
-79/home/darnaud/Documents/sites/clipboard-landing-page-master/src/components.html1678460238016923987 0
+79/home/darnaud/Documents/sites/clipboard-landing-page-master/src/components.html1678808229768533080 0
 129/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/features/declarative-shadow-dom.js1678442086462938574 0
 154/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias/browser.js1678442086982942168 0
 104/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/utils/src/config.js1678442088386951872 0
@@ -2550,7 +2557,7 @@
 121/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/source-map/parcel_sourcemap_node/src1678442088198950572 1
 111/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/core/lib/RequestTracker.js1678442090074963539 0
 130/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/transformer-js/parcel-swc.linux-x64-musl.node1678442112659119621 0
-96/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/logo-microsoft.b87cab12.png1678461301897301767 0
+96/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/logo-microsoft.b87cab12.png1678807409398982205 0
 124/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/core/lib/requests/BundleGraphRequest.js1678442089642960553 0
 141/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/core/test/fixtures/custom-format-infer-type/package.json1678442090326965280 0
 95/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/chalk/package.json1678442086218936887 0
@@ -2800,7 +2807,7 @@
 109/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/svgo/plugins/convertTransform.js1678442086330937661 0
 113/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/package-manager/package.json1678442089210957567 0
 148/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@babel/helper-validator-identifier/scripts/generate-identifier-regex.js1678442086266937219 0
-98/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/abstracts/_mixins.scss1678461492546806515 0
+98/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/abstracts/_mixins.scss1678807817905842326 0
 124/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/watcher/src/watchman/WatchmanBackend.cc1678442086418938269 0
 113/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/watcher/src/watchman/BSER.hh1678442086422938297 0
 116/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/features/classlist.js1678442086394938104 0
@@ -2812,7 +2819,7 @@
 110/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/source-map-js/lib/mapping-list.js1678442238315987712 0
 105/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/packager-svg/LICENSE1678442087554946121 0
 96/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/images/image-computer.png1615325664000000000 0
-83/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/commons1678460401906210517 1
+83/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/commons1678805140942147533 1
 152/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules/foo/package.json1678442089210957567 0
 97/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/globals/globals.json1678442086338937717 0
 107/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/core/src/loadDotEnv.js1678442089810961714 0
@@ -2832,7 +2839,7 @@
 142/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/core/test/fixtures/library-custom-scopehoist/package.json1678442090330965308 0
 117/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/diagnostic/test/markdown.test.js1678442088990956047 0
 124/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/core/test/fixtures/main-format-mismatch1678442090330965308 1
-103/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/components/_nav-social.scss1678458729749080992 0
+103/home/darnaud/Documents/sites/clipboard-landing-page-master/src/assets/scss/components/_nav-social.scss1678465873412359398 0
 102/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/core/src/utils.js1678442090294965059 0
 103/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/graph/lib/types.js1678442088050949549 0
 106/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/watcher/index.js.flow1678442086422938297 0
@@ -3277,7 +3284,7 @@
 100/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/types/unsafe.js1678442087378944905 0
 100/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/terser/lib/transform.js1678442086422938297 0
 94/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/parcel/src/bin.js1678442088922955577 0
-79/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/index.html1678461301885301672 0
+79/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/index.html1678810087709446334 0
 115/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/transformer-babel/lib/types.js1678442087642946729 0
 102/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/fs-search/LICENSE1678442087090942914 0
 106/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@babel/highlight/node_modules1678442085722933459 1
@@ -3449,7 +3456,7 @@
 99/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/timsort/src/timsort.js1678442086246937081 0
 103/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/mdn-data/css/syntaxes.json1678442086338937717 0
 104/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/events/src/index.js1678442089630960470 0
-91/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/icon-text.a22952b8.svg1678461301877301609 0
+91/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/icon-text.a22952b8.svg1678807409414982323 0
 105/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/events/src/errors.js1678442089626960442 0
 114/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/type-fest/source/merge-exclusive.d.ts1678442086306937495 0
 113/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/lightningcss/node/composeVisitors.js1678442087950948858 0
@@ -3592,7 +3599,7 @@
 109/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/svgo/plugins/removeDimensions.js1678442086362937882 0
 105/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/timsort/build/timsort.min.js1678442086234936998 0
 93/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/timsort/index.js1678442086186936666 0
-87/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/index.55517108.css1678461462670570682 0
+87/home/darnaud/Documents/sites/clipboard-landing-page-master/src/dist/index.55517108.css1678811581642165516 0
 113/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/caniuse-lite/data/features/dnssec.js1678442086462938574 0
 103/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/nth-check/lib/index.js.map1678442086286937357 0
 115/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/@parcel/core/lib/public/Environment.js1678442089802961659 0
@@ -3930,7 +3937,7 @@
 118/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/source-map-js/lib/source-map-generator.js1678442238319987740 0
 99/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/source-map/lib/util.js1678442086294937412 0
 96/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/base-x/package.json1678442086954941974 0
-63/home/darnaud/Documents/sites/clipboard-landing-page-master/src1678459596443929326 1
+63/home/darnaud/Documents/sites/clipboard-landing-page-master/src1678464474113143034 1
 103/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/yaml/browser/dist/index.js1678442086266937219 0
 108/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/posthtml-render/dist/index.d.ts1678442086274937274 0
 107/home/darnaud/Documents/sites/clipboard-landing-page-master/src/node_modules/yaml/browser/dist/parse-cst.js1678442086318937578 0

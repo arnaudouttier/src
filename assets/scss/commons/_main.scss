@@ -1,9 +1,52 @@
 #main {
   @include page-container;
-  padding-block: 5rem;
+  padding-block: 12rem;
 }
 
 .inner-main {
   display: grid;
   gap: 5rem;
+
+  .list-text {
+    margin-block: 0 6rem;
+  }
+
+  .list-logos {
+    padding-block: 3rem;
+  }
+
+  .group.image-text {
+    display: grid;
+    row-gap: 4rem;
+  }
+
+  > img {
+    justify-self: center;
+  }
+}
+
+@media (min-width: 1024px) {
+  #main {
+    .group.image-text {
+      grid-template-columns: 2fr 1fr;
+
+      img {
+        margin-left: -14rem;
+      }
+
+      .list-text {
+        display: grid;
+        align-items: center;
+        margin: 0;
+
+        ul {
+          grid-auto-flow: row;
+
+          li {
+            text-align: left;
+          }
+        }
+      }
+    }
+  }
 }

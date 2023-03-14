@@ -67,15 +67,38 @@ p {
 }
 
 h1, h2 {
-  color: grayish_100;
+  color: #4c545d;
   font-weight: 600;
-  line-height: 1.5;
+  line-height: 1.4;
+}
+
+#header {
+  background-image: url("bg-header-mobile.42d09928.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  grid-template-columns: min(80vw, 1120px);
+  justify-content: center;
+  row-gap: 4rem;
+  padding-block: 6rem 0;
+  display: grid;
+}
+
+#header .site-logo {
+  justify-content: center;
+  display: flex;
+}
+
+@media (min-width: 640px) {
+  #header {
+    background-image: url("bg-header-desktop.75ca14b0.png");
+  }
 }
 
 #main {
-  grid-template-columns: min(90vw, 1120px);
+  grid-template-columns: min(80vw, 1120px);
   justify-content: center;
-  padding-block: 5rem;
+  padding-block: 12rem;
   display: grid;
 }
 
@@ -84,9 +107,50 @@ h1, h2 {
   display: grid;
 }
 
+.inner-main .list-text {
+  margin-block: 0 6rem;
+}
+
+.inner-main .list-logos {
+  padding-block: 3rem;
+}
+
+.inner-main .group.image-text {
+  row-gap: 4rem;
+  display: grid;
+}
+
+.inner-main > img {
+  justify-self: center;
+}
+
+@media (min-width: 1024px) {
+  #main .group.image-text {
+    grid-template-columns: 2fr 1fr;
+  }
+
+  #main .group.image-text img {
+    margin-left: -14rem;
+  }
+
+  #main .group.image-text .list-text {
+    align-items: center;
+    margin: 0;
+    display: grid;
+  }
+
+  #main .group.image-text .list-text ul {
+    grid-auto-flow: row;
+  }
+
+  #main .group.image-text .list-text ul li {
+    text-align: left;
+  }
+}
+
 #footer {
   background-color: #f5f6f8;
-  grid-template-columns: min(90vw, 1120px);
+  grid-template-columns: min(80vw, 1120px);
   justify-content: center;
   padding-block: 3rem;
   display: grid;
@@ -161,7 +225,7 @@ h1, h2 {
 }
 
 .title-text h2 {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
 }
 
 @media (min-width: 640px) {
@@ -179,16 +243,16 @@ h1, h2 {
 }
 
 .title-text-buttons h1 {
-  font-size: 2rem;
+  font-size: clamp(1.9rem, 1.0738vw + 1.64833rem, 2.4rem);
 }
 
 .title-text-buttons h2 {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
 }
 
 .title-text-buttons .group {
   grid-auto-flow: row;
-  gap: 2rem;
+  gap: 1.8rem;
   margin-top: 1rem;
   display: grid;
 }
@@ -200,7 +264,9 @@ h1, h2 {
   }
 
   .title-text-buttons .group {
+    width: 500px;
     grid-auto-flow: column;
+    margin-inline: auto;
   }
 }
 
@@ -280,7 +346,7 @@ h1, h2 {
 .list-image-text ul {
   grid-auto-flow: row;
   justify-content: center;
-  gap: 2.5rem;
+  gap: 4rem;
   display: grid;
 }
 
