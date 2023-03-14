@@ -340,6 +340,7 @@ h1, h2 {
 @media (min-width: 640px) {
   .list-logos ul {
     grid-auto-flow: column;
+    align-items: center;
   }
 }
 
